@@ -15,4 +15,8 @@ APK_LOCATION = "/Users/nthunem/AndroidStudioApplications/Northland-Church/app/ap
 ALIAS = "<your-alias>"
 PASSWORD = "<your-password>"
 ```
+
+-Only the release APK will result in a matching SHA1 Fingerprint.  
+-Wrap each value in double ( " ) quotes
+
 #### NOTE: variable names must not change.
